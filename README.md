@@ -1,4 +1,5 @@
-```(() => {
+```
+(() => {
 
   if (window.BlumAC) return;
   window.BlumAC = true;
