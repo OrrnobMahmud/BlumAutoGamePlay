@@ -57,4 +57,4 @@
     canvas.dispatchEvent(new MouseEvent('mouseup', prop));
   }
 
-})();```
+})();
